@@ -1,0 +1,85 @@
+{
+  "players": [
+    {
+      "playerId": 1,
+      "name":"Virat Kohli",
+      "country": "Australia",
+      "image":  "https://ichef.bbci.co.uk/news/1024/branded_news/6151/production/_122731942_mediaitem122731941.jpg",
+      "flag": "https://flagcdn.com/in.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/52.jpg",
+
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 2,
+      "name": "Joe Root",
+      "country": "India",
+      "image": "https://crictoday.com/wp-content/uploads/2023/03/UsgAIOc.jpg",
+
+      "flag": "https://flagcdn.com/gb.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/64.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 900000
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+
+      "country": "Australia",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387800/387872.jpg",
+      "flag": "https://flagcdn.com/nz.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/71.jpg",
+
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 4,
+      "name":"Steve Smith",
+      "country": "South Africa",
+      "image": "https://api.bdcrictime.com/steve-smith-07_03_2022.jpg",
+
+      "flag": "https://flagcdn.com/au.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/83.jpg",
+
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 1400000
+    },
+    {
+      "playerId": 5,
+      "name": "Babar Azam",
+      "country": "England",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/387800/387828.jpg",
+
+      "flag": "https://flagcdn.com/pk.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/92.jpg",
+
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Pakistan",
+      "image":  "https://img.etimg.com/thumb/width-1200,height-900,imgsize-112648,resizemode-75,msid-106430150/news/sports/david-warner-retires-from-one-day-cricket-ahead-of-test-farewell-warner-retirement-david-warner-records.jpg",
+      "flag": "https://flagcdn.com/au.svg",
+      "profileImage": "https://randomuser.me/api/portraits/men/58.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 1300000
+    }
+  
+  ]
+}
